@@ -42,7 +42,7 @@ Please make sure to use the steps described in the [How To Test](/testday/mitaka
 |                     |  | RHEL7.1  |   | [How To Test](/testday/mitaka/milestone2#how-to-test) | edannon |    |    | 
 | Distributed -IPv6-Deployment- Sanity |  |  CentOS 7 |  | [QuickStart](/Quickstart) |  |   |  | 
 |                                      |  | F22       |  | [QuickStart](/Quickstart) |  |   |  | 
-|                                      |  | RHEL7.1   |  | [QuickStart](/Quickstart) | ekuris |   |  |
+|                                      |  | RHEL 7.2   |  <span style="background:#00ff00">Good</span> | [QuickStart](/Quickstart) | ekuris | 2016-01-28 |  |
 | Distributed -ML2- OVS-VXLAN –  LbaaS | | CentOS 7.1 |  | [QuickStart](/Quickstart) |  |   |  | 
 |                                      | | F22        |  | [QuickStart](/Quickstart) |  |   |  | 
 |                                      | | RHEL7.1    |  | [QuickStart](/Quickstart) |  |   |  | 
